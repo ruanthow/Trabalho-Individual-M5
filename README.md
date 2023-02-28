@@ -10,3 +10,6 @@ Usando um código simples de laço de repetição com uma condição dentro para
 Prompt-sync // https://www.npmjs.com/package/prompt-sync
 
 ## Execução :airplane:.
+<div>
+  <img src="./Execução.png"/>
+</div>
